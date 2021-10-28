@@ -1,4 +1,4 @@
-Hi, I’m Tosin Ojo 👋
+Hi, I’m Tosin 👋
 
 <!---
 Tosin-Ojo/Tosin-Ojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
