@@ -1,6 +1,6 @@
 👋 Hi, My name is **Tosin** 
   
-👨🏿‍💻 I’m a **Fullstack Software engineer**  
+👨🏿‍💻 I’m a **Frontend Software engineer**  
   
 👀 You can view some of my works at **https://www.tosinojo.com**  
   
