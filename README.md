@@ -6,7 +6,7 @@
   
 📫 I'm reachable at **ojo.oluwatosin.adebayo@gmail.com**  
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tosin-ojo&show_icons=true&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tosin-ojo&count_private=true&show_icons=true&theme=tokyonight)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tosin-ojo&langs_count=5&theme=tokyonight&layout=compact)]()
 
