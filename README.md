@@ -1,3 +1,5 @@
+## About Me
+
 👋 Hi, My name is **Tosin** 
   
 👨🏿‍💻 I’m a **Frontend Software engineer**  
@@ -6,9 +8,14 @@
   
 📫 I'm reachable at **ojo.oluwatosin.adebayo@gmail.com**  
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tosin-ojo&count_private=true&show_icons=true&theme=tokyonight)]()
+
+## Languages
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tosin-ojo&langs_count=5&theme=tokyonight&layout=compact)]()
+
+## Public Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tosin-ojo&count_private=true&show_icons=true&theme=tokyonight)]()
 
 <!---
 Tosin-Ojo/Tosin-Ojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
