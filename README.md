@@ -1,6 +1,6 @@
 # 👨🏾 About Me
 
-#### 👋 Hi, My name is **Tosin** 👨🏿‍💻, a Senior Frontend Engineer from Nigeria 🇳🇬.
+### 👋 Hi, My name is **Tosin** 👨🏿‍💻, a Senior Frontend Engineer from Nigeria 🇳🇬.
 
 # 🛠 Skills
 
