@@ -1,6 +1,6 @@
 # 👨🏾 About Me
 
-### 👋 Hi, My name is **Tosin** 👨🏿‍💻, a Senior Frontend Engineer with 4+ experience.
+### 👋 Hi, My name is **Tosin** 👨🏿‍💻, a Senior Frontend Engineer with 4+ years of experience.
 
 # 🛠 Skills
 
